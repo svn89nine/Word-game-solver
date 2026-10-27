@@ -1,0 +1,14 @@
+# Compiled output
+*.o
+*.out
+*.exe
+a.out
+
+# Build folders
+build/
+bin/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
